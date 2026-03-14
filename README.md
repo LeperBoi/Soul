@@ -9,7 +9,8 @@ It is imperfect but a solid starting point.
 
 The "Chaos Star" is used to represent emotions due to its similarity to Plutchick's wheel.
 Various tips are used to represent whether an emotion is externalized or internalized.
-Additionally, there is the "repressed" option for when an emotion is "bottled up" and "displaced" (stemming from spirit rather than soul).
+The "repressed" option is for when an emotion is "bottled up" and "displaced" (stemming from spirit rather than soul).
+Lastly, there is an "Empathy" option to indicate that an emotion is sourced from Empathy (mirror neurons).
 Needs are simpler with a "met" or "unmet" option. The idea of a "violated" option hasn't been fully ruled out.
 
 This model is of The Soul, but can be daisy-chained to represent the emotional aspects of a "Spirit"
