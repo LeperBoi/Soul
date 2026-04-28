@@ -1,7 +1,7 @@
 # Soul
-A python program to visually model various states of The Soul with precise detail.
+A python program to draw souls in various configurations.
 
-Soul is defined as the intersection of needs & emotions; the qualia of good & bad that abolishes nihilism.
+Soul as the intersection of needs & emotions; the qualia of good & bad that abolishes nihilism.
 -Needs- are based on Maslow's Hierarchy, -Emotions- are based on Plutchick's Wheel of Emotion.
 
 This is a blackbox model at the base level of abstraction.
